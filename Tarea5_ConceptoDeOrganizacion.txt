@@ -1,0 +1,19 @@
+Hoy en día la administración y el control de las actividades es fundamental para un buen
+funcionamiento en instituciones, es por ello que se necita definir bien cada uno de los
+departamentos, el puesto de cada persona que lo conformara y las funciones que se deben cumplir.
+
+La organización nos permite segmentar las diversas áreas o departamentos en una empresa,
+identificando puestos de trabajo, designando las actividades y funciones de cada uno de los
+integrantes, para el caso del departamento de servicios informáticos o bien el centro de cómputo es
+básicamente el mismo planteamiento, es necesario designar un encargado o director, de las misma
+forma identificar las distintas áreas y las actividades que deben desarrollar.
+
+En cuanto a mi definicion personal, considero que una organizacion es cualquier grupo, ya sea de
+personas o instituciones que buscan llevar a cabo un fin concreto; por lo cual poseen una estructura bien definida
+que les ayuda a llevar a cabo dicha mision. Relacionandolo con nuestra materia, podriamos decir que las organizaciones
+buscan disponer de recursos para llevar a cabo sus procesos haciendo entonces uso de la tecnologia, por lo que aqui
+se implicaria la creacion de un centro de computo para procesar todos los datos necesarios y convertirlos en informacion util.
+
+Un buen ejemplo de esto seria imaginar una empresa de paqueteria que dispone en su base da datos, que destinos son los mas concurridos
+y cuales no tanto, lo que nos ayudaria a planear rutas priorizando las rutas criticas que nos entregue el data center o tambien para
+llevar a cabo una mejora continua pidiendole su opinion a los usuarios mediante aplicaciones y demas herraamientas tecnolgicas.
