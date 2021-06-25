@@ -1,0 +1,36 @@
+Tarea 8 Ejemplos de la Operacion de un Centro de Computo
+Vazquez Suarez Angel	Grupo 2809
+
+Para ejemplificar de manera mas sencilla partiremos de la suposicion
+de que nuestro Centro de Computo se dedica a atender y dar soporte
+a usuarios de una tienda de videojuegos online.
+
+-Marcar y/o señalizar los productos de los procesos ejecutados.
+    
+	Llevar a cambio un inventario de los nuevos juegos agregados a la plataforma;
+	documentando la version, los requisitos tecnicos y el proceso para 
+	subir los archivos del mismo al servidor de la empresa para generar
+	codigos de activaciónn.
+
+-Llevar registros de fallas, problemas, soluciones, acciones desarrolladas,
+ respaldos, recuperaciones y trabajos realizados.
+    
+	Llevar un registro detallado de los bugs encontrados por los usuarios,
+	la version donde se sucitaron, las soluciones implementadas por los desarrolladores,
+	y los parches en las nuevas versiones.
+ 
+-Aplicar en forma estricta las normas de seguridad y control establecidas.
+    
+	Crear un reglamento con todas las normas y procedimientos a llevar a cabo desde el soporte
+	con el fin de brindar un servicio de calidad que de pronta respuesta a los usuarios.
+ 
+-Mantener informado al jefe inmediato sobre el funcionamiento del centro de computo.
+    
+	Crear informes periodicos a la alta gerencia sobre el estado y sucesos importantes del centro de computo,
+	tales como las mejoras, los cambios de procesos o los fallos criticos.
+ 
+-Revisar los resultados de los procesos e incorporar acciones 
+ correctivas conforme a instrucciones de su superior inmediato.
+    
+	Evaluar la calidad del servicio de la tienda, asi como tratar de integrar las propuestas
+	de la alta gerencia para seguir llevando una mejora continua. 
